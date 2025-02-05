@@ -67,7 +67,7 @@ Mã Giới Thiệu của bạn: Giảm Giá 10%
 
 * _Chỉ cần người mua còn sử dụng thì bạn vẫn nhận được hoa hồng._
 * _Sau khi khách áp mã giới thiệu của bạn và thanh toán thành công một gói bất kỳ, nếu họ có nâng cấp gói, gia hạn... bạn đều nhận được Phí Hoa Hồng tương ứng mà không cần phải nhập lại Mã Giới Thiệu._
-* _Người dùng chưa từng tạo tài khoản FBtool, người dùng đã tạo tài khoản nhưng chưa thanh toán thành công sẽ thấy ô điền Mã Giới Thiệu._
+* _Người dùng chưa từng tạo tài khoản thuộc hệ sinh thái 1ManBiz, người dùng đã tạo tài khoản nhưng chưa thanh toán thành công sẽ thấy ô điền Mã Giới Thiệu._
 
 <figure><img src="../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 

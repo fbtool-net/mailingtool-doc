@@ -32,7 +32,7 @@ Sau khi đăng nhập, ở góc trên bên phải bạn click chọn "**Mua gói
 
 ### Hỏi: Lỡ mua gói thấp có nâng cấp lên gói cao hơn được không ? Có phải đợi cho hết thời gian gói cũ không?
 
-Trả lời: Bạn có thể nâng cấp lên gói cao hơn bất kỳ lúc nào bạn muốn. FBtool sẽ trừ đi những ngày bạn chưa dùng ở gói cũ, ví dụ:
+Trả lời: Bạn có thể nâng cấp lên gói cao hơn bất kỳ lúc nào bạn muốn. 1ManBiz sẽ trừ đi những ngày bạn chưa dùng ở gói cũ, ví dụ:
 
 Bạn đang dùng gói Basic tháng và còn 19 ngày, bạn muốn nâng cấp lên gói Pro tháng, thì bạn sẽ chỉ phải thanh toán 200.000 - (100.000 / 30 x 20) = **133.340đ.**
 
