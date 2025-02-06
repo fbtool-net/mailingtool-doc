@@ -55,7 +55,7 @@ D. **Kéo và thả** file vừa tải vào giữa như ảnh phía dưới (Ho�
 ### Bước 3 - Kết nối và sử dụng
 
 1. Mở một thẻ mới cho gmail.
-2.  Qua thẻ gmail, làm mới trang (F5), tool sẽ tự động nhận. Có thể tắt thẻ facebook đi trong quá trình sử dụng. Nếu bạn muốn sử dụng nhiều tài khoản gmail thì hãy đăng nhập cùng 1 Chrome Profile hiện tại.
+2.  Qua thẻ gmail, làm mới trang (F5), tool sẽ tự động nhận. Nếu bạn muốn sử dụng nhiều tài khoản gmail thì hãy đăng nhập cùng 1 Chrome Profile hiện tại.
 
     <figure><img src=".gitbook/assets/Screenshot 2025-02-05 at 12.01.04.png" alt=""><figcaption></figcaption></figure>
 3. Khi trang mailingtool đã Tải lại xong (trong vòng 5-15s), giao diện sẽ hiển thị danh sách các Địa chỉ Hộp thư, bạn hãy thử gửi 1 email đi để kiểm tra. Nếu gửi không thành công, thực hiện bước reset tool như sau:&#x20;

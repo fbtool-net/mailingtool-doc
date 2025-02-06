@@ -103,7 +103,7 @@ Trả lời: Không, tool chạy trên trình duyệt web.
 
 ### Hỏi: Tool hiện lên bảng giới hạn số thiết bị/số tab cùng lúc
 
-Trả lời: Với 1 tài khoản MailingTool bạn có thể dùng với không giới hạn tài khoản Facebook, nhưng không thể dùng cùng lúc.
+Trả lời: Với 1 tài khoản MailingTool bạn chỉ có thể dùng 1 thiết bị tại một thời điểm.
 
 <figure><img src=".gitbook/assets/z5520507408012_f07655762a76d65db7137c57bb4f5720.jpg" alt=""><figcaption></figcaption></figure>
 
